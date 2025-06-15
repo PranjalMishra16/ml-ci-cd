@@ -1,5 +1,3 @@
-raise ValueError("Intentional break to test CI pipeline!")
-
 
 import pickle
 from sklearn.datasets import load_iris
