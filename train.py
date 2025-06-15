@@ -1,3 +1,6 @@
+raise ValueError("Intentional break to test CI pipeline!")
+
+
 import pickle
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
